@@ -1,0 +1,73 @@
+/**https://colorbase.app/ja/colors/cae6ae*/
+
+body {
+  font-family: sans-serif;
+}
+
+input {
+  border-radius: 16px;
+  border: none;
+  padding: 6px 16px;
+  outline: none;
+}
+
+button {
+  border-radius: 16px;
+  border: none;
+  padding: 4px 16px;
+  margin: 0 3px;
+}
+
+button:hover {
+  background-color: #e6aeae;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.input-area {
+  background-color: #aee6e6;
+  width: 400px;
+  height: 30px;
+  padding: 8px;
+  margin: 8px;
+  border-radius: 8px;
+}
+
+.incomplete-area {
+  background-color: #cae6ae;
+  width: 400px;
+  min-height: 30px;
+  padding: 8px;
+  margin: 8px;
+  border-radius: 8px;
+}
+
+.complete-area {
+  background-color: #caaee6;
+  width: 400px;
+  min-height: 30px;
+  padding: 8px;
+  margin: 8px;
+  border-radius: 8px;
+}
+
+.title {
+  text-align: center;
+  margin-top: 0;
+  font-weight: bold;
+  color: #333333;
+}
+
+p {
+  margin: 0;
+}
+
+.list-row {
+  display: flex;
+  align-items: center;
+  padding-bottom: 6px;
+}
+
+.list-row > p {
+  margin-right: 6px;
+}
