@@ -36,7 +36,7 @@ button:hover {
 .incomplete-area {
   background-color: #cae6ae;
   width: 400px;
-  min-height: 30px;
+  min-height: 200px;
   padding: 8px;
   margin: 8px;
   border-radius: 8px;
@@ -45,7 +45,7 @@ button:hover {
 .complete-area {
   background-color: #caaee6;
   width: 400px;
-  min-height: 30px;
+  min-height: 200px;
   padding: 8px;
   margin: 8px;
   border-radius: 8px;
